@@ -1,6 +1,6 @@
 public class HelloWorld{
     public static void main(String[] args){
-        //Print Hello World
-        System.out.println("HelloWorld");
+        //Jenkins integration example
+        System.out.println("Example for jenkins");
     }
 }
